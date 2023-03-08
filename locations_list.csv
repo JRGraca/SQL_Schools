@@ -1,0 +1,30 @@
+;id;description;country.id;country.name;country.abbrev;city.id;city.name;city.keyword;state.id;state.name;state.abbrev;state.keyword;school;school_id
+0;15901;Berlin, Germany;57.0;Germany;DE;31156.0;Berlin;berlin;;;;;ironhack;10828
+1;16022;Mexico City, Mexico;29.0;Mexico;MX;31175.0;Mexico City;mexico-city;;;;;ironhack;10828
+2;16086;Amsterdam, Netherlands;59.0;Netherlands;NL;31168.0;Amsterdam;amsterdam;;;;;ironhack;10828
+3;16088;Sao Paulo, Brazil;42.0;Brazil;BR;31121.0;Sao Paulo;sao-paulo;;;;;ironhack;10828
+4;16109;Paris, France;38.0;France;FR;31136.0;Paris;paris;;;;;ironhack;10828
+5;16375;Miami, FL, United States;1.0;United States;US;31.0;Miami;miami;11.0;Florida;FL;florida;ironhack;10828
+6;16376;Madrid, Spain;12.0;Spain;ES;31052.0;Madrid;madrid;;;;;ironhack;10828
+7;16377;Barcelona, Spain;12.0;Spain;ES;31170.0;Barcelona;barcelona;;;;;ironhack;10828
+8;16709;Lisbon, Portugal;28.0;Portugal;PT;31075.0;Lisbon;lisbon;;;;;ironhack;10828
+9;17233;Online;;;;;;;1.0;Online;Online;online;ironhack;10828
+0;15704;San Francisco, CA, United States;1.0;United States;US;13.0;San Francisco;san-francisco;6.0;California;CA;california;app-academy;10525
+1;15705;New York City, NY, United States;1.0;United States;US;1507.0;NYC;new-york-city;34.0;New York;NY;new-york;app-academy;10525
+2;15862;Online;;;;;;;1.0;Online;Online;online;app-academy;10525
+0;16013;Online;;;;;;;1.0;Online;Online;online;springboard;11035
+0;17154;Online;;;;;;;1.0;Online;Online;online;practicum-coding-bootcamps;11225
+0;15899;Online;;;;;;;1.0;Online;Online;online;evolve-security-academy;10743
+1;16045;Chicago, IL, United States;1.0;United States;US;39.0;Chicago;chicago;15.0;Illinois;IL;illinois;evolve-security-academy;10743
+0;16002;Los Angeles, CA, United States;1.0;United States;US;10.0;Los Angeles;los-angeles;6.0;California;CA;california;codesmith;10643
+1;16328;New York City, NY, United States;1.0;United States;US;1507.0;NYC;new-york-city;34.0;New York;NY;new-york;codesmith;10643
+2;16595;Online;;;;;;;1.0;Online;Online;online;codesmith;10643
+3;17438;Temporarily Online;1.0;United States;US;31234.0;Temporarily Online;temp-online;;;;;codesmith;10643
+0;15935;New York City, NY;1.0;United States;US;1507.0;NYC;new-york-city;34.0;New York;NY;new-york;brainstation;10571
+1;15985;Toronto, Canada;2.0;Canada;CA;1547.0;Toronto;toronto;;;;;brainstation;10571
+2;16010;Vancouver, Canada;2.0;Canada;CA;31138.0;Vancouver;vancouver;71.0;British Columbia;BC;;brainstation;10571
+3;16909;Boston, MA;1.0;United States;US;47.0;Boston;boston;23.0;Massachusetts;MA;massachusetts;brainstation;10571
+4;16910;Chicago, IL;1.0;United States;US;39.0;Chicago;chicago;15.0;Illinois;IL;illinois;brainstation;10571
+5;16940;Online;;;;;;;1.0;Online;Online;online;brainstation;10571
+6;17706;Miami, FL;1.0;United States;US;31.0;Miami;miami;11.0;Florida;FL;florida;brainstation;10571
+7;17731;London, UK;11.0;United Kingdom;GB;31176.0;London;london;;;;;brainstation;10571

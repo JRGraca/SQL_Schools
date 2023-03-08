@@ -1,0 +1,55 @@
+,0
+0,"      id               description  country.id   country.name country.abbrev  \
+0  15901           Berlin, Germany        57.0        Germany             DE   
+1  16022       Mexico City, Mexico        29.0         Mexico             MX   
+2  16086    Amsterdam, Netherlands        59.0    Netherlands             NL   
+3  16088         Sao Paulo, Brazil        42.0         Brazil             BR   
+4  16109             Paris, France        38.0         France             FR   
+5  16375  Miami, FL, United States         1.0  United States             US   
+6  16376             Madrid, Spain        12.0          Spain             ES   
+7  16377          Barcelona, Spain        12.0          Spain             ES   
+8  16709          Lisbon, Portugal        28.0       Portugal             PT   
+9  17233                    Online         NaN            NaN            NaN   
+
+   city.id    city.name city.keyword  state.id state.name state.abbrev  \
+0  31156.0       Berlin       berlin       NaN        NaN          NaN   
+1  31175.0  Mexico City  mexico-city       NaN        NaN          NaN   
+2  31168.0    Amsterdam    amsterdam       NaN        NaN          NaN   
+3  31121.0    Sao Paulo    sao-paulo       NaN        NaN          NaN   
+4  31136.0        Paris        paris       NaN        NaN          NaN   
+5     31.0        Miami        miami      11.0    Florida           FL   
+6  31052.0       Madrid       madrid       NaN        NaN          NaN   
+7  31170.0    Barcelona    barcelona       NaN        NaN          NaN   
+8  31075.0       Lisbon       lisbon       NaN        NaN          NaN   
+9      NaN          NaN          NaN       1.0     Online       Online   
+
+  state.keyword    school  school_id  
+0           NaN  ironhack      10828  
+1           NaN  ironhack      10828  
+2           NaN  ironhack      10828  
+3           NaN  ironhack      10828  
+4           NaN  ironhack      10828  
+5       florida  ironhack      10828  
+6           NaN  ironhack      10828  
+7           NaN  ironhack      10828  
+8           NaN  ironhack      10828  
+9        online  ironhack      10828  "
+1,"      id                       description  country.id   country.name  \
+0  15704  San Francisco, CA, United States         1.0  United States   
+1  15705  New York City, NY, United States         1.0  United States   
+2  15862                            Online         NaN            NaN   
+
+  country.abbrev  state.id  state.name state.abbrev state.keyword  city.id  \
+0             US         6  California           CA    california     13.0   
+1             US        34    New York           NY      new-york   1507.0   
+2            NaN         1      Online       Online        online      NaN   
+
+       city.name   city.keyword       school  school_id  
+0  San Francisco  san-francisco  app-academy      10525  
+1            NYC  new-york-city  app-academy      10525  
+2            NaN            NaN  app-academy      10525  "
+2,"      id description  state.id state.name state.abbrev state.keyword  \
+0  16013      Online         1     Online       Online        online   
+
+        school  school_id  
+0  springboard      11035  "
